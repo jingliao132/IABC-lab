@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "connect our research with practical problems"
+description: "connect our research with society"
 header-img: "img/home-bg.jpg"
 ---
 
