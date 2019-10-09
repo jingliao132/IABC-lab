@@ -5,7 +5,7 @@
   img: /IABC-lab/img/ChunleiChai.png #https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
 #  github: ahmetcecen
 #  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Prof.Chai Chunlei is an associate professor in the College of Computer Science and Technology at Zhejiang University. He has been teaching and researching in the fields of business design for the past X years. His current research focus is on XXX to solve XXX problems in business thinking. 
+  bio: Chai Chunlei is an associate professor in the College of Computer Science and Technology at Zhejiang University. He has been teaching and researching in the fields of business design for the past X years. His current research focus is on XXX to solve XXX problems in business thinking. 
 #  url: http://ahmetcecen.github.io/
   visible: true
   
@@ -14,12 +14,12 @@
   img: /IABC-lab/img/NingZou.png #https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
 #  github: ahmetcecen
 #  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Dr.Zou Ning is a lecture in the College of Computer Science and Technology at Zhejiang University. He has been doing research in the fields of XXX for the past X years. His current research focus is on leveraging XXX to solve XXX problems in human computer interaction. 
+  bio: Zou Ning is a lecture in the College of Computer Science and Technology at Zhejiang University. He has been doing research in the fields of XXX for the past X years. His current research focus is on leveraging XXX to solve XXX problems in human computer interaction. 
 #  url: http://ahmetcecen.github.io/
   visible: true
   
 - name: Liao Jing
-  role: Ph.D Student
+  role: PhD Student
   img: /IABC-lab/img/JingLiao.png #https://avatars0.githubusercontent.com/u/4368625?v=3&s=400
   github: jingliao132
   bio: Liao Jing is a PhD student in the College of Computer Science and Technology at Zhejiang University. She earned a Bachelor’s degree in Computer Science and Technology at South China University of Technology. Her research focus is on leveraging machine learning methods to support design activities. Currently, she is interested in adaptive interaction techniques and unsupervised text sequence learning.
