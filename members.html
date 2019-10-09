@@ -13,9 +13,9 @@ header-img: "img/home-bg.jpg"
 
 	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
 	
-	<h1>{{ member.name }}</h1>
+	<h2>{{ member.name }}</h2>
 	
-	<h2>{{ member.role }}</h2>
+	<h3>{{ member.role }}</h3>
 	
 	{% if member.github %} 
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
@@ -43,9 +43,9 @@ header-img: "img/home-bg.jpg"
 {% for member in site.data.members %} {% if member.visible == false %}
         <img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
 	
-	<h1>{{ member.name }}</h1>
+	<h2>{{ member.name }}</h2>
 	
-	<h2>{{ member.role }}</h2>
+	<h3>{{ member.role }}</h3>
 	
 	{% if member.github %} 
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
