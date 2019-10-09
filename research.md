@@ -12,9 +12,9 @@ The IABC is divided into four research groups.
 * [Digital Inspiration](#digital-inspiration)
 	
 # Business and Service Design
+We focus on Commercial Design and Service Design.
 ## Interests
-Commercial Design, Service Design
-* Customer Behaviors, Design Thinking
+Customer Behaviors, Design Thinking
   
 ## Members
 **Cai Ruiqi**, Chen Simin, Yang Xiaolong, Chai Qing, Yi Xiaodan, Gu Jianan, Yi Xingxing
@@ -26,9 +26,9 @@ Netease Study, Ant Financial, Rookie, New Retail
 <br/>
 
 # Intelligence and Design
+We focus on Machine Learning and Natural Language Processing
 ## Interests
-Machine Learning, Natural Language Processing
-* Domain Adaptation, Sentiment Analysis, Computational Design Tools
+Domain Adaptation, Sentiment Analysis, Computational Design Tools
   
 ## Members
 **Liao Jing**, Chen Zitong, Zhou Jiawei, Yang Qihao
@@ -40,9 +40,9 @@ Data-driven Design Engine, Intelligent Design System, Commercial Big Data Filter
 <br/>
 
 # Human Computer Interaction Design
+We focus on Human Computer Interaction
 ## Interests
-Human Computer Interaction
-* HMI(driving), Eye-tracking, EEG, VR
+HMI(driving), Eye-tracking, EEG, VR
   
 ## Applications
 Attention training, eye-tracking based bahavior analysis, design applications in virtual environment
@@ -54,9 +54,9 @@ Attentional Innovative Design, Virtual Design, Rookie project
 <br/>
 
 # Digital Inspiration
+We focus on Culture and Art Design
 ## Interests
-Culture and Art Design
-* Culture Composition, Digital Art
+Culture Composition, Digital Art
   
 ## Applications
 Song painting, culture and tourism
