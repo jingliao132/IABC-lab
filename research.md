@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Group"
+title: "Research"
 description: "Which branch of research you are interested in?"
 header-img: "img/home-bg.jpg"
 ---
