@@ -13,9 +13,9 @@ headercolor: "#FFFFFF"
 logo: /IABC-lab/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  jingliao132 #projectpages
+project_repository: IABC-lab #project-pages
+disqus_shortname: IABC-lab #project-pages
 g-analytics: UA-75881392-1
 altmetric: true
 
