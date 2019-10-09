@@ -18,7 +18,7 @@ Begin introduction of projects
 	<h2 class="post-title">
 	</h2>
     </a>
-    <p class="post-meta" style="margin-bottom:5px">{{ article.author }} ( {{ article.date | date: "%B %-d, %Y"}} )</p>
+    <p class="post-meta" style="margin-bottom:5px">{{ article.author }}, {{ article.date | date: "%B %-d, %Y"}} </p>
 	<div class="notepad-index-post-tags" style="">
 	    {% for keyword in article.keywords %}<a href="{{ site.baseurl }}/search/index.html#{{ keyword | cgi_encode }}" title="Other articles from the {{ keyword | capitalize }} keyword">{{ keyword | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div>
