@@ -12,22 +12,11 @@ Begin introduction of research interests
 Begin introduction of projects
 
 <h1>Recent Publications</h1>
-<!-- fail for not recognize article.date
-{for article in paginator.publications %}
-<div class="post-preview">
-    <a href="{{ article.url | prepend: site.baseurl }}">
-	<h2 class="post-title">{{ article.title }}</h2>
-    </a>
-    <p class="post-meta" style="margin-bottom:5px">{{ article.author }}, {{ article.date | date: "%B %-d, %Y"}} </p>
-	<div class="notepad-index-post-tags" style="">
-	    {% for keyword in article.keywords %}<a href="{{ site.baseurl }}/search/index.html#{{ keyword | cgi_encode }}" title="Other articles from the {{ keyword | capitalize }} keyword">{{ keyword | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-	</div>
-</div>
-<hr>
-{% endfor %}
--->
+Begin publications
 
 <h1>News</h1>
+Begin news
+
 <!--
 {% for post in paginator.posts %}
 <div class="post-preview">
@@ -48,7 +37,6 @@ Begin introduction of projects
 <hr>
 {% endfor %}
 -->
-
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
@@ -64,4 +52,3 @@ Begin introduction of projects
     {% endif %}
 </ul>
 {% endif %}
-
