@@ -59,5 +59,5 @@ Song painting, culture and tourism
 ## Members
 **Gong Qin**, Guo Zian, Yang Yang, Han Wei, Zheng Zi, Kong Wenqi
 ## Production
-knowledge Base for Innovative Design
+Knowledge Base for Innovative Design
 
