@@ -15,6 +15,7 @@ The IABC is divided into four research groups.
 ## Interests
 * Commercial Design, Service Design
   * Customer Behaviors, Design Thinking
+  
 ## Members
 **Cai Ruiqi**, Chen Simin, Yang Xiaolong, Chai Qing, Yi Xiaodan, Gu Jianan, Yi Xingxing
 ## Partners
@@ -28,6 +29,7 @@ Netease Study, Ant Financial, Rookie, New Retail
 ## Interests
 * Machine Learning, Natural Language Processing
   * Domain Adaptation, Sentiment Analysis, Computational Design Tools
+  
 ## Members
 **Liao Jing**, Chen Zitong, Zhou Jiawei, Yang Qihao
 ## Partners
@@ -41,6 +43,7 @@ Data-driven Design Engine, Intelligent Design System, Commercial Big Data Filter
 ## Interests
 * Human Computer Interaction
   * HMI(driving), Eye-tracking, EEG, VR
+  
 ## Applications
 Attention training, eye-tracking based bahavior analysis, design applications in virtual environment
 ## Members
@@ -54,6 +57,7 @@ Attentional Innovative Design, Virtual Design, Rookie project
 ## Interests
 * Culture and Art Design
   * Culture Composition, Digital Art
+  
 ## Applications
 Song painting, culture and tourism
 ## Members
