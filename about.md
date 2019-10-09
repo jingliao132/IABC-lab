@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Partners"
+title: "About"
 description: "connect our research with practical problems"
 header-img: "img/home-bg.jpg"
 ---
