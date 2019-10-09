@@ -6,7 +6,9 @@ header-img: "img/home-bg.jpg"
 ---
 <hr>
 
-<h>Staff</h>
+<h1>Staff</h1>
+<hr>
+
 {% for member in site.data.members %} {% if member.visible == true %}
 
 	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
@@ -35,7 +37,9 @@ header-img: "img/home-bg.jpg"
 
 {% endif %}{% endfor %}
 
-<h>Alumini</h>
+<h1>Alumini</h1>
+<hr>
+
 {% for member in site.data.members %} {% if member.visible == false %}
         <img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
 	
