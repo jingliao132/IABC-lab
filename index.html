@@ -12,11 +12,11 @@ Begin introduction of research interests
 Begin introduction of projects
 
 <h1>Recent Publications</h1>
+<!-- fail for not recognize article.date
 {for article in paginator.publications %}
 <div class="post-preview">
     <a href="{{ article.url | prepend: site.baseurl }}">
-	<h2 class="post-title">
-	</h2>
+	<h2 class="post-title">{{ article.title }}</h2>
     </a>
     <p class="post-meta" style="margin-bottom:5px">{{ article.author }}, {{ article.date | date: "%B %-d, %Y"}} </p>
 	<div class="notepad-index-post-tags" style="">
@@ -25,6 +25,7 @@ Begin introduction of projects
 </div>
 <hr>
 {% endfor %}
+-->
 
 <h1>News</h1>
 <!--
