@@ -13,33 +13,34 @@ The IABC is divided into four research groups.
 	
 # Business and Service Design
 ## Interests
-Commercial Design, Service Design
-## Research
-Customer Behaviors, Design Thinking
-## Partners
-Netease Study, Ant Financial, Rookie, New Retail
+* Commercial Design, Service Design
+  * Customer Behaviors, Design Thinking
 ## Members
 **Cai Ruiqi**, Chen Simin, Yang Xiaolong, Chai Qing, Yi Xiaodan, Gu Jianan, Yi Xingxing
+## Partners
+Netease Study, Ant Financial, Rookie, New Retail
 ## Production
 "Service and Engineering Design", "Service and Innovation Design", "Business Insights", Customers' Commercial Bahavior Analysis System
 
+<br/>
+
 # Intelligence and Design
 ## Interests
-Machine Learning, Natural Language Processing
-## Research
-Domain Adaptation, Sentiment Analysis, Computational Design Tools
-## Partners
-Taihuo Bird, JD, Tencent
+* Machine Learning, Natural Language Processing
+  * Domain Adaptation, Sentiment Analysis, Computational Design Tools
 ## Members
 **Liao Jing**, Chen Zitong, Zhou Jiawei, Yang Qihao
+## Partners
+Taihuo Bird, JD, Tencent
 ## Production
 Data-driven Design Engine, Intelligent Design System, Commercial Big Data Filter and Analysis System
 
+<br/>
+
 # Human Computer Interaction Design
 ## Interests
-Human Computer Interaction
-## Research
-HMI(driving), Eye-tracking, EEG, VR
+* Human Computer Interaction
+  * HMI(driving), Eye-tracking, EEG, VR
 ## Applications
 Attention training, eye-tracking based bahavior analysis, design applications in virtual environment
 ## Members
@@ -47,11 +48,12 @@ Attention training, eye-tracking based bahavior analysis, design applications in
 ## Production
 Attentional Innovative Design, Virtual Design, Rookie project
 
+<br/>
+
 # Digital Inspiration
 ## Interests
-Culture and Art Design
-## Research
-Culture Composition, Digital Art
+* Culture and Art Design
+  * Culture Composition, Digital Art
 ## Applications
 Song painting, culture and tourism
 ## Members
