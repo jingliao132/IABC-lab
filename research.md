@@ -11,6 +11,7 @@ The IABC is divided into four research groups.
 * [Human-Computer Interaction Design](#human-computer-interaction-design)
 * [Digital Inspiration](#digital-inspiration)
 
+&nbsp;
 
 # Business and Service Design
 We focus on Commercial Design and Service Design.
