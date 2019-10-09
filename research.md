@@ -14,8 +14,9 @@ The IABC is divided into four research groups.
 &nbsp;
 
 # Business and Service Design
-We focus on Commercial Design and Service Design.
 <img align="right" width="250" height="200" src="https://www.eahsn.org/wp-content/uploads/research.jpg">
+We focus on Commercial Design and Service Design.
+
 ### Interests
 Customer Behaviors, Design Thinking
   
@@ -31,8 +32,9 @@ Netease Study, Ant Financial, Rookie, New Retail
 <br/>
 
 # Intelligence and Design
-We focus on Machine Learning and Natural Language Processing.
 <img align="right" width="250" height="200" src="https://www.eahsn.org/wp-content/uploads/research.jpg">
+We focus on Machine Learning and Natural Language Processing.
+
 ### Interests
 Domain Adaptation, Sentiment Analysis, Computational Design Tools
   
@@ -46,8 +48,8 @@ Data-driven Design Engine, Intelligent Design System, Commercial Big Data Filter
 <br/>
 
 # Human Computer Interaction Design
-We focus on Human Computer Interaction.
 <img align="right" width="250" height="200" src="https://www.eahsn.org/wp-content/uploads/research.jpg">
+We focus on Human Computer Interaction.
 
 ### Interests
 HMI(driving), Eye-tracking, EEG, VR
@@ -64,8 +66,8 @@ Attentional Innovative Design, Virtual Design, Rookie project
 <br/>
 
 # Digital Inspiration
-We focus on Culture and Art Design.
 <img align="right" width="250" height="200" src="https://www.eahsn.org/wp-content/uploads/research.jpg">
+We focus on Culture and Art Design.
 
 ### Interests
 Culture Composition, Digital Art
