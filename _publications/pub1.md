@@ -6,8 +6,9 @@ excerpt:    'This paper is about'
 date:       2017-02-23
 venue:      'IEEE'
 paperurl:   'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7860884'
-tags: 		design computation
-citation: 'citation'
-category:  project1
+tags: 		  design computation
+citation:   'citation'
+category:   project1
+collection: publications
 header-img: "img/home-bg.jpg"
 ---
