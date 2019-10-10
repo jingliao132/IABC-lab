@@ -107,10 +107,9 @@ prose:
               value: "post"
             - name: "Slide"
               value: "slide"
-            - name: "Projector"
-              value: "projector"
-            - name: "Notebook"
-              value: "notebook"
+            - name: "Publication"
+              value: "publication"
+          
       - name: "title"
         field:
           element: "text"
@@ -163,10 +162,9 @@ prose:
               value: "post"
             - name: "Slide"
               value: "slide"
-            - name: "Projector"
-              value: "projector"
-            - name: "Notebook"
-              value: "notebook"
+            - name: "Publication"
+              value: "publication"
+          
       - name: "title"
         field:
           element: "text"
