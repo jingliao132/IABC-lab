@@ -96,7 +96,7 @@ prose:
       - name: "category"
         field:
           element: "text"
-          label: "Project"
+          label: "Publication"
           value: ""  
       - name: "excerpt"
         field:
