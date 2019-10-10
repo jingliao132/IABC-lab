@@ -1,5 +1,3 @@
-{% include site.baseurl %}
-
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -7,18 +5,18 @@
     </a>
     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
     
-  {% if post.excerpt and site.read_more != 'enabled' %}
+    {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ baseurl }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
   
-	<div class="notepad-index-post-tags" style="">
-    <a href="{{ site.baseurl }}/{{ post.paperurl }}"> DOWNLOAD </a>
-    <a href=""> REF </a>
-    <!--
+    <div class="notepad-index-post-tags" style="">
+        <a href="{{ site.baseurl }}/{{ post.paperurl }}"> DOWNLOAD </a>
+        <a href=""> REF </a>
+        <!--
 		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-	  -->
-  </div>
+	-->
+    </div>
 </div>
 <hr>
