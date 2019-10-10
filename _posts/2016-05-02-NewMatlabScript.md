@@ -6,7 +6,7 @@ tags: 		matlab workflows template
 subtitle:   Some Short Description of the Script
 category:  project1
 visualworkflow: true
-collection: projects
+collections: projects
 ---
 {% if page.visualworkflow == true %}
    {% include workflowmatlab.html %}
