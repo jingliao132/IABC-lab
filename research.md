@@ -4,14 +4,7 @@ title: "Research"
 description: "Which branch of research you are interested in?"
 header-img: "img/home-bg.jpg"
 ---
-
-The IABC is divided into four research groups.
-* [Business and Service Design](#business-and-service-design)
-* [Intelligence and Design](#intelligence-and-design)
-* [Human-Computer Interaction Design](#human-computer-interaction-design)
-* [Digital Inspiration](#digital-inspiration)
-
-&nbsp;
+[comment]: <> (&nbsp;)
 
 # Business and Service Design
 <img align="right" width="250" height="200" src="https://www.eahsn.org/wp-content/uploads/research.jpg">
