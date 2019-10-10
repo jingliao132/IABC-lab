@@ -11,6 +11,7 @@ baseurl: "/IABC-lab"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /IABC-lab/img/logos/Project-Pages-New-Logo-Inverted.png
+read_more: true
 
 # Tertiary Parameters
 github_username:  jingliao132 #projectpages
