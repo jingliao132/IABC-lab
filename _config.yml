@@ -134,7 +134,6 @@ prose:
               value: "projector"
             - name: "Notebook"
               value: "notebook"
-           
       - name: "title"
         field:
           element: "text"
