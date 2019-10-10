@@ -3,6 +3,8 @@ layout: page
 ---
 This is publication.html
 
+It will render {{ site.publications }}.
+
 {% for post in site.publications %}
 	<div class="post-preview">
 	    <a href="{{ post.url | prepend: site.baseurl }}">
