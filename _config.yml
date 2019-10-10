@@ -60,7 +60,59 @@ prose:
         field:
           element: "text"
           label: "Project"
-          value: ""           
+          value: "" 
+          
+    _publications:
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Choose Layout"
+          placeholder: "Layouts"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Slide"
+              value: "slide"
+            - name: "Projector"
+              value: "projector"
+            - name: "Notebook"
+              value: "notebook"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags (seperate with whitespace)"
+          value: ""
+      - name: "category"
+        field:
+          element: "text"
+          label: "Project"
+          value: ""  
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "Excerpt"
+          value: ""
+      - name: "paperurl"
+        field:
+          element: "text"
+          label: "Paperurl"
+          value: ""
+      - name: "citation"
+        field:
+          element: "text"
+          label: "Citation"
+          value: ""
+         
     _posts:
       - name: "subtitle"
         field:
@@ -81,8 +133,7 @@ prose:
               value: "projector"
             - name: "Notebook"
               value: "notebook"
-            - name: "Ply Surface"
-              value: "plysurface"
+           
       - name: "title"
         field:
           element: "text"
