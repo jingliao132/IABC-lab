@@ -31,6 +31,7 @@ layout: page
 	<a href="{{ post.url | prepend: site.baseurl }}">
 		<h2 class="post-title">{{ post.title }} </h2>
 	</a>
+	{{ post.author }}
 	{% if post.excerpt and site.read_more != 'enabled' %}
             <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
         {% elsif post.excerpt and site.read_more == 'enabled' %}
