@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "About IABC"
 description: "Connect our research with society"
 header-img: "img/home-bg.jpg"
 ---
