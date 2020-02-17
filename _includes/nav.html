@@ -26,11 +26,13 @@
                 {% endif %}{% endif %}{% endfor %}
 		
 		<li>
-			{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
 			<ul>
+			{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
+			<li>
                     		<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                	</ul>
+                	</li>
 			{% endif %}{% endif %}{% endfor %}
+			</ul>
 		</li>
 		
 <!-- 		{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
