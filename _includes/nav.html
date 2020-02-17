@@ -25,11 +25,19 @@
                 </li>
                 {% endif %}{% endif %}{% endfor %}
 		
-		{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
+		<li>
+			{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
+			<ul>
+                    		<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                	</ul>
+			{% endif %}{% endif %}{% endfor %}
+		</li>
+		
+<!-- 		{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
-                {% endif %}{% endif %}{% endfor %}
+                {% endif %}{% endif %}{% endfor %} -->
 		
             </ul>
         </div>
