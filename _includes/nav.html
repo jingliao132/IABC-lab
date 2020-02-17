@@ -25,8 +25,8 @@
                 </li>
                 {% endif %}{% endif %}{% endfor %}
 		
-		<li><a href="#">Projects</a>
-			<ul>
+		<li><a data-toggle="dropdown" href="#">Projects</a>
+			<ul class="dropdown-menu pull-right">
 			{% for page in site.pages %}{% if page.url contains "projects/" %}{% if page.title %}
 			<li>
                     		<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
