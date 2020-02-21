@@ -9,7 +9,7 @@ url: "https://jingliao132.github.io"
 # Secondary Parameters
 baseurl: "/IABC-lab"
 header-img: img/home-bg-new.jpg
-headercolor: "#FFFFFF"
+headercolor: "#151515"
 logo: # /IABC-lab/img/logos/Project-Pages-New-Logo-Inverted.png
 read_more: "disabled"
 teaser:  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
