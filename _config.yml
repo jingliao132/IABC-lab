@@ -8,7 +8,7 @@ url: "https://jingliao132.github.io"
 
 # Secondary Parameters
 baseurl: "/IABC-lab"
-header-img: img/home-bg.jpg
+header-img: img/home-bg-new.jpg
 headercolor: "#FFFFFF"
 logo: /IABC-lab/img/logos/Project-Pages-New-Logo-Inverted.png
 read_more: "disabled"
@@ -55,7 +55,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/home-bg-new.jpg"
   
   # _posts
   - scope:
@@ -63,7 +63,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/home-bg-new.jpg"
       
   # _publications
   - scope:
@@ -71,7 +71,7 @@ defaults:
       type: "publications"
     values:
       layout: "publication"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/home-bg-new.jpg"
 
 # Prose Settings
 prose:
