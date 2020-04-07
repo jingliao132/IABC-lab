@@ -1,7 +1,7 @@
 # Members
 
 - name: Chai Chunlei
-  role: Leader | Associate Prof.
+  role: Leader | Prof.
   img: /IABC-lab/img/ChunleiChai.png #https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
 #  github: ahmetcecen
 #  gplus: https://plus.google.com/+AhmetCecen-GPlus
@@ -17,19 +17,88 @@
   bio: Zou Ning has been doing research in the fields of XXX for the past X years. His current research focus is on leveraging XXX to solve XXX problems in human computer interaction. 
   url: http://ningzou.github.io/
   visible: true
+
+- name: Cai Ruiyi
+  role: PhD Candidate
+  img: /IABC-lab/img/CaiRuiyi.png
+  bio: 
+  url: 
+  visible: true
   
 - name: Liao Jing
-  role: PhD Student
+  role: PhD Candidate
   img: /IABC-lab/img/JingLiao.png #https://avatars0.githubusercontent.com/u/4368625?v=3&s=400
   github: jingliao132
   bio: Liao Jing earned a Bachelor’s degree in Computer Science and Technology at South China University of Technology, where she lead an undergraduate research project on pattern recognition. Her current research focus is on leveraging machine learning methods to support design activities. She is working on information extraction techniques and zero-resource learning.
   url: http://jingliao132.github.io/
   visible: true
   
+- name: Chen Zitong
+  role: Master
+  img: /IABC-lab/img/ChenZitong.png
+  bio:
+  url:
+  visible: true
   
-- name: Surya R. Kalidindi
-  role: Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
-  url: http://mined.gatech.edu/
+- name: Xu Yue
+  role: Master
+  img: /IABC-lab/img/XuYue.png
+  bio:
+  url:
+  visible: true
+
+- name: Yang Qihao
+  role: Master
+  img: /IABC-lab/img/YangQihao.png
+  bio:
+  url:
+  visible: true
+
+- name: Zhao Rui
+  role: Master
+  img: /IABC-lab/img/ZhaoRui.png
+  bio:
+  url:
+  visible: true
+  
+- name: Zhou Jiawei
+  role: Master
+  img: /IABC-lab/img/ZhouJiawei.png
+  bio:
+  url:
+  visible: true
+
+- name: Bao Defu
+  role: Ph.D
+  img: /IABC-lab/img/BaoDefu.png
+  bio:
+  url:
   visible: false
+  
+- name: Shen Danni
+  role: Ph.D
+  img: /IABC-lab/img/ShenDanni.png
+  bio:
+  url:
+  visible: false
+  
+- name: Cen Fei
+  role: Master
+  img: /IABC-lab/img/CenFei.png
+  bio:
+  url:
+  visible: false
+
+- name: Wu Xun
+  role: Master
+  img: /IABC-lab/img/WuXun.png
+  bio:
+  url:
+  visible: false
+  
+# - name: Surya R. Kalidindi
+#   role: Materials Informatics
+#   img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
+#   bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
+#   url: http://mined.gatech.edu/
+#   visible: false
