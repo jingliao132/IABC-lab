@@ -29,69 +29,85 @@
   role: PhD Candidate
   img: /IABC-lab/img/JingLiao.png #https://avatars0.githubusercontent.com/u/4368625?v=3&s=400
   github: jingliao132
-  bio: Liao Jing earned a Bachelor’s degree in Computer Science and Technology at South China University of Technology, where she leads an undergraduate research project on pattern recognition. Her research focuses on leveraging machine learning methods to support design activities. Currently, she is working on information extraction and image synthesis techniques.
+  bio: Liao Jing is interested in design and creativity support with machine learning techniques. Currently, she is working on information extraction and image synthesis. She earned a Bachelor’s degree in Computer Science and Technology at South China University of Technology, where she leads an undergraduate research project of pattern recognition. 
   url: http://jingliao132.github.io/
   visible: true
   
+- name: Shi Jinlei
+  role: PhD Candidate
+  img: /IABC-lab/img/logos/blank.png #https://avatars0.githubusercontent.com/u/4368625?v=3&s=400
+  github: 
+  bio: 
+  url: 
+  visible: true
+
+- name: Gong Qing
+  role: PhD Candidate
+  img: /IABC-lab/img/logos/blank.png #https://avatars0.githubusercontent.com/u/4368625?v=3&s=400
+  github: 
+  bio: 
+  url: 
+  visible: true
+
 - name: Chen Zitong
   role: Master
-  img: /IABC-lab/img/ChenZitong.png
+  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/ChenZitong.png
   bio:
   url:
   visible: true
   
 - name: Xu Yue
   role: Master
-  img: /IABC-lab/img/XuYue.png
+  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/XuYue.png
   bio:
   url:
   visible: true
 
-- name: Yang Qihao
-  role: Master
-  img: /IABC-lab/img/YangQihao.png
-  bio:
-  url:
-  visible: true
+# - name: Yang Qihao
+#   role: Master
+#   img: /IABC-lab/img/YangQihao.png
+#   bio:
+#   url:
+#   visible: true
 
-- name: Zhao Rui
-  role: Master
-  img: /IABC-lab/img/ZhaoRui.png
-  bio:
-  url:
-  visible: true
+# - name: Zhao Rui
+#   role: Master
+#   img: /IABC-lab/img/ZhaoRui.png
+#   bio:
+#   url:
+#   visible: false
   
-- name: Zhou Jiawei
-  role: Master
-  img: /IABC-lab/img/ZhouJiawei.png
-  bio:
-  url:
-  visible: true
+# - name: Zhou Jiawei
+#   role: Master
+#   img: /IABC-lab/img/ZhouJiawei.png
+#   bio:
+#   url:
+#   visible: false
 
 - name: Bao Defu
   role: Ph.D
-  img: /IABC-lab/img/BaoDefu.png
+  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/BaoDefu.png
   bio:
   url:
   visible: false
   
 - name: Shen Danni
   role: Ph.D
-  img: /IABC-lab/img/ShenDanni.png
+  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/ShenDanni.png
   bio:
   url:
   visible: false
   
 - name: Cen Fei
   role: Master
-  img: /IABC-lab/img/CenFei.png
+  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/CenFei.png
   bio:
   url:
   visible: false
 
 - name: Wu Xun
   role: Master
-  img: /IABC-lab/img/WuXun.png
+  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/WuXun.png
   bio:
   url:
   visible: false
