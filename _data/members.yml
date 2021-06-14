@@ -86,28 +86,28 @@
 
 - name: Bao Defu
   role: Ph.D
-  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/BaoDefu.png
+  img: #/IABC-lab/img/logos/blank.png #/IABC-lab/img/BaoDefu.png
   bio:
   url:
   visible: false
   
 - name: Shen Danni
   role: Ph.D
-  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/ShenDanni.png
+  img: #/IABC-lab/img/logos/blank.png #/IABC-lab/img/ShenDanni.png
   bio:
   url:
   visible: false
   
 - name: Cen Fei
   role: Master
-  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/CenFei.png
+  img: #/IABC-lab/img/logos/blank.png #/IABC-lab/img/CenFei.png
   bio:
   url:
   visible: false
 
 - name: Wu Xun
   role: Master
-  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/WuXun.png
+  img: #/IABC-lab/img/logos/blank.png #/IABC-lab/img/WuXun.png
   bio:
   url:
   visible: false
