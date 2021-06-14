@@ -20,7 +20,7 @@
 
 - name: Cai Ruiyi
   role: PhD Candidate
-  img: /IABC-lab/img/CaiRuiyi.png
+  img: /IABC-lab/img/logos/blank.png #/IABC-lab/img/CaiRuiyi.png
   bio: 
   url: 
   visible: true
